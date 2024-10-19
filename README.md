@@ -1,4 +1,4 @@
-# The Next Potential Data-Driven Insight: Titanic Dataset Analysis
+# Titanic Insights: How Data Reveals Who Made It and Who Didn't
 
 **(Estimated Reading Time: 7 minutes)**  
 **Author: [Your Name]**
