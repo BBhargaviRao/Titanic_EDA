@@ -1,7 +1,7 @@
 # Titanic Insights: How Data Reveals Who Made It and Who Didn't
 
 **(Estimated Reading Time: 7 minutes)**  
-**Author: [Your Name]**
+**Author: Bhargavi Rao**
 
 ## Introduction to Data-Driven Insights
 In the realm of data science, analyzing historical datasets can illuminate patterns and provide valuable insights. One such dataset that has captivated analysts and researchers alike is the Titanic dataset. This dataset chronicles the tragic sinking of the RMS Titanic in 1912 and contains detailed information about the passengers on board. By examining this dataset, we can uncover the factors that influenced survival rates and better understand the dynamics of that fateful voyage.
